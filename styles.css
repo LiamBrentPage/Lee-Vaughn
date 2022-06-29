@@ -75,6 +75,9 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-cheers {
-    background-image: url("images/cheers.gif");
     height: 200px;
+}
+
+#gift-img-cheers:hover {
+    background-image: url("images/cheers.gif");
 }
